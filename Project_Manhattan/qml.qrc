@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>Tile.qml</file>
+        <file>Map.qml</file>
+        <file>Menu.qml</file>
+        <file>resources/images/background_basic.png</file>
+        <file>resources/images/bg-button-lighter.jpg</file>
+        <file>resources/images/bg-button-medium.jpg</file>
+        <file>Quit.qml</file>
+        <file>resources/images/bg-button-dark.jpg</file>
+        <file>resources/images/tank.jpg</file>
+        <file>Saved.qml</file>
+        <file>resources/images/bg-button-quit.jpg</file>
+        <file>resources/images/bg-button-saved.jpg</file>
+        <file>resources/images/bg-button-darker.jpg</file>
+        <file>resources/images/tank_destroyed.jpg</file>
+        <file>resources/images/tank_enemy.jpg</file>
+        <file>resources/images/tank_player.jpg</file>
+        <file>resources/images/tank_selected_enemy.jpg</file>
+        <file>resources/images/tank_selected_player.jpg</file>
+        <file>resources/images/tank_selected.jpg</file>
+        <file>InfoPanel.qml</file>
+        <file>TankInfo.qml</file>
+    </qresource>
+</RCC>
